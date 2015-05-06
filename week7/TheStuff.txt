@@ -1,0 +1,3 @@
+ip: 104.131.17.218
+domain: http://www.mytc362class.ninja/
+subdomain: http://test.mytc362class.ninja/
